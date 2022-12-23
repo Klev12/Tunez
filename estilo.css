@@ -1,0 +1,153 @@
+body{
+    background-color: rgb(143, 112, 112);
+}
+/inicio seccion 1/
+.contenedor-15{
+    background-color: #ffffff;
+    width: 400px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Tunez{
+    background-color: #d80e0e;
+    height: 100px ;
+    width: 150px ;
+    margin-top: 20px ;
+    position: relative ;
+}
+.Tunez1 {
+    background-color: #f8f8f8;
+    width: 80px;
+    height: 80px;
+    border-radius: 200%;
+    align-items: center ;
+    position: fixed ;
+    margin-top: -95px ;
+    position: absolute;
+    left: 3%;
+    
+    
+}
+
+/fin seccion 1/
+
+/inicio seccion 2/
+.contenedor-25{
+background-color: rgb(143, 112, 112);
+}
+
+
+.fotojp{
+width: 50px;
+height: 50x;
+display: flex;
+justify-content: start;
+align-items: flex-end;
+}
+/fin seccion 2/
+
+/inicio seccion 3/
+.contenedor-35{
+    background-color: rgb(143, 112, 112);
+}
+
+.fondonegro{
+    background-color: #000000;
+    width: 350px;
+    height: 300px;
+    display: flex;
+    border-radius: 25px;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.verde{
+    background-color: #008000;
+    height: 250px;
+    width: 50px;
+    padding-left: 20px;
+    padding-top: 20px;
+    margin: 10px;
+    display: flex;
+}
+
+.verde2{
+    background-color: #008000;
+    height: 250px;
+    width: 50px;
+    padding-left: 20px;
+    padding-top: 20px;
+    margin: 10px;
+    margin: 10px;
+}
+
+.rojo{
+    background-color: #ff0000;
+    height: 150px;
+    width: 50px;
+    padding-left: 20px;
+    padding-top: 20px;
+    margin: 10px;
+    display: flex;
+}
+/fin seccion3/
+
+/inicio seccion 4/
+.contenedor-45{
+    background-color: rgb(143, 112, 112);
+
+}
+
+.banderasjpal1{
+    background-color:#000000;
+    width: 160px;
+    height: 100px;
+    margin: 20px;
+    float: left;
+}
+
+.color1{
+    background-color: rgb(4, 26, 230) ;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+
+}
+
+.color2{
+    background-color: rgb(250, 250, 250) ;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+
+.color3{
+    background-color: rgb(255, 0, 0) ;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+
+.banderasjpal{
+    background-color: rgb(255, 0, 0);
+    width: 160px;
+    height: 100px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: flex;
+    margin-top: 10px; 
+}
+
+.circulorojo{
+    background-color: #fcfcfc;
+    width: 60px;
+    height: 60px;
+    border-radius: 150px;
+}
+
+/fin seccion seccion 4/
